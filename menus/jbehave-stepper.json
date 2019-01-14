@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jbehave-stepper",
+        "command": "jbehave-stepper:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jbehave-stepper",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jbehave-stepper:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
