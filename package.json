@@ -2,13 +2,13 @@
   "name": "jbehave-stepper",
   "main": "./lib/jbehave-stepper",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Automatically changes your cursor from your JBehave story to the matching Java code",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "jbehave-stepper:toggle"
   },
-  "repository": "https://github.com/atom/jbehave-stepper",
+  "repository": "https://github.com/anthfran/jbehave-stepper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
