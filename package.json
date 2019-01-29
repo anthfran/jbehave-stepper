@@ -1,7 +1,7 @@
 {
   "name": "jbehave-stepper",
   "main": "./lib/jbehave-stepper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Automatically changes your cursor from your JBehave story to the matching Java code",
   "keywords": [],
   "activationCommands": {
